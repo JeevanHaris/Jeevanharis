@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/jeevan-haris">
+  <a href="https://www.linkedin.com/in/jeevanharis">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 
