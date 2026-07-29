@@ -5,7 +5,7 @@
   Hi, I'm <strong>Jeevan Haris.K</strong>
 </h1>
 
-<h3>Aspiring software Developer |  Python • HTML5  • CSS  • Javascript  • basic data science</h3>
+<h3>Aspiring software Developer |  Python • HTML5  • CSS  • Javascript  • PostMan •Linux /h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
