@@ -58,7 +58,7 @@
 
 <h3>📚 Frameworks & Libraries</h3>
 
-<img src="https://skillicons.dev/icons?i=react,flask" />
+<img src="https://skillicons.dev/icons?i=fastapi,flask" />
 
 </td>
 </tr>
